@@ -8,7 +8,7 @@ license: "ISC"
 homepage: "https://github.com/ocamlpro/atable"
 bug-reports: "https://github.com/ocamlpro/atable/issues"
 depends: [
-  "ocaml" {>= "4.05"}
+  "ocaml" {>= "4.08"}
   "dune" {>= "2.7" & >= "2.7"}
   "flex-array" {>= "1.2"}
   "agrid" {>= "0.1"}

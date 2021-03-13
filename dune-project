@@ -19,7 +19,7 @@
  (description "Basic spreadsheet tool with HTML tables.")
  (depends
   (ocaml
-   (>= 4.05))
+   (>= 4.08))
   (dune
    (>= 2.7))
   (flex-array
